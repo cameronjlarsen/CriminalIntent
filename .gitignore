@@ -47,5 +47,6 @@ google-services.json
 .externalNativeBuild
 .cxx
 local.properties
-.zip
-.err
+*.zip
+*.err
+README.pdf
